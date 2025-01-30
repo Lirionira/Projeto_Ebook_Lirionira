@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Desenhando
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book com poucas páginas e que ensina técnicas simples de desenho, com alguns exemplos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA utilizada: Copilot da Microsoft e AIEASE
+Programas: Power Point e PDF
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Copilot para solicitar a criação de livro com principais técnicas de desenho, para a realização de um e-book com 10 páginas. Também solicitei que fossem descritas as principais técnicas de desenho. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi possível gerar um e-book simples com as IAs que eu pude consultar, no momento. Para a criação de imagem, percebi dificuldade da IA de criar o conteúdo que eu solicitei. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei difícil, mas que com mais treino e um equipamento de estudos melhor, poderei me desenvolver mais.
 ```
 
 ### Exemplos e Insigths
